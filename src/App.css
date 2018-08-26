@@ -1,0 +1,14 @@
+
+#buttongroup {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#buttongroup Button {
+  margin-right: 10px;
+}
+
+#title {
+  margin-top: 10px;
+  text-align: center;
+}
